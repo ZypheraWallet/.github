@@ -20,7 +20,6 @@
 Если ты дизайнер, разработчик или энтузиаст Web3 — давай делать будущее вместе!
 
 - 🌐 [zyphera.io](https://zyphera.io) *(в разработке)*
-- 💬 Telegram: [@zyphera_wallet](https://t.me/zyphera_wallet)
 ---
 
 > “Zyphera erases borders, not just between countries — but between ideas and action.”
